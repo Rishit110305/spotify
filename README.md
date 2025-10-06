@@ -1,2 +1,2 @@
 # spotify
-this is my spotify project
+this is my spotify project.
